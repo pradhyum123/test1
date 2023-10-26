@@ -1,0 +1,10 @@
+.admin.card{
+    border: 1px salmon;
+}
+.admin.card:hover{
+    background: #e2e2e2;
+}
+.discount-label{
+    font-size: 10px;
+    font-style: italic;
+}
